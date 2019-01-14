@@ -1,1 +1,1 @@
-module num2word
+module github.com/sergeidovydenko/num2words
